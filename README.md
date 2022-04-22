@@ -26,7 +26,7 @@ This feature will help authenticate the user.
 </br>
 </br>
 
-## The project is accessible at -
+## At the time of submission (April 2022) The project was accessible at -
 - Project has been deployed on a *Digital Ocean* Server
 - **Frontend** - https://app.se-gators.co.in
 - **Backend** - https://api.se-gators.co.in
