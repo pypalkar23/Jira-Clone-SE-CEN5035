@@ -24,7 +24,6 @@ User Invite feature will allow the project owner to invite other users to join t
 This feature will help authenticate the user.
 
 </br>
-</br>
 
 ## At the time of submission (April 2022) The project was accessible at -
 - Project has been deployed on a *Digital Ocean* Server
